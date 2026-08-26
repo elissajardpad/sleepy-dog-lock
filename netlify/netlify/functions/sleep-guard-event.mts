@@ -1,3 +1,4 @@
+// v2
 import { getStore, type Store } from "@netlify/blobs";
 
 const allowedEvents = new Set([
